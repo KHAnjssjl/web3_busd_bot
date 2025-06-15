@@ -21,3 +21,4 @@ jobs:
         run: pip install web3
       - name: Run script
         run: python test_web3.py
+
